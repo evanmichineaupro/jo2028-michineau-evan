@@ -1,0 +1,10 @@
+{
+    "name": "michineau-evan/jo2028",
+    "description": "Site web des Jeux Olympiques 2028 (BTS SIO SLAM)",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6 || ^10.5 || ^11.0"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
